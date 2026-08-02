@@ -1,1 +1,1 @@
-# Entités de la Base de Données AURA
+# Entités de la Base de Données AURA (MVP)
